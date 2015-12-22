@@ -1,0 +1,1 @@
+perl trec_eval.pl qrels.adhoc.51-100.AP89.txt jm_k_results.txt
